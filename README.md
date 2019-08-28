@@ -9,13 +9,14 @@ cluster analysis
 
 The paper:
 ```
-@inproceedings{Clb18,
+@inproceedings{Daoc19,
 	author={Artem Lutov and Mourad Khayati and Philippe Cudr{\'e}-Mauroux},
 	title={DAOC: Stable Clustering of Large Networks},
-	year={2018},
+	year={2019},
 	keywords={stable clustering, overlapping clustering, community structure discovery, parameter-free community detection, cluster analysis},
 }
 
 ```
 
-The source code is being prepared for the publication and cross-platform deployment, and will be fully uploaded soon... Meanwile, please write me to get the sources and/or binaries.
+The source code is being prepared for the publication and cross-platform deployment, and will be fully uploaded soon...  
+Meanwile, please *write me to get the sources and/or binaries*.
