@@ -19,4 +19,5 @@ The paper:
 ```
 
 The source code is being prepared for the publication and cross-platform deployment, and will be fully uploaded soon...  
-Meanwile, please *write me to get the sources and/or binaries*.
+Meanwhile, please *write me to get the sources*.
+The [DAOC binaries](https://github.com/eXascaleInfolab/clubmark/tree/master/algorithms/daoc) built on Linux Ubuntu 16.04+ x64 can be found in the [Clubmark](https://github.com/eXascaleInfolab/clubmark) benchmarking framework.
