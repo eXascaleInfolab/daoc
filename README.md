@@ -1,7 +1,7 @@
 # DAOC - Deterministic and Agglomerative Overlapping Clustering algorithm
 
 `\authors` (c) Artem Lutov <artem@exascale.info>  
-`\license` Apache 2.0, optional commercial support and relicensing is provided by the request  
+`\license` [Apache 2.0](https://www.apache.org/licenses/LICENSE-2.0) with the exception of several files having [MPL 2.0](https://www.mozilla.org/en-US/MPL/2.0/) license specified in their headers, optional commercial support and relicensing is provided by the request  
 `\organizations` [eXascale Infolab](http://exascale.info/), [Lumais](http://www.lumais.com/)  
 `\keywords` stable clustering, overlapping clustering, com-
 munity structure discovery, parameter-free community detection,

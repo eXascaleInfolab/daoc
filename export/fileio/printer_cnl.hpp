@@ -2,8 +2,9 @@
 //! The Dao (Deterministic Agglomerative Overlapping) of Clustering library:
 //! Robust & Fine-grained Deterministic Clustering for Large Networks.
 //!
-//! \license Apache License, Version 2.0: http://www.apache.org/licenses/LICENSE-2.0.html
-//! > 	Simple explanation: https://tldrlegal.com/license/apache-license-2.0-(apache-2.0)
+//! \license Mozilla Public License, v. 2.0: http://mozilla.org/MPL/2.0/
+//! >	Simple explanation: https://tldrlegal.com/license/mozilla-public-license-2.0-(mpl-2)
+//! or commercial license (please contact the author for the details)
 //!
 //! Copyright (c)
 //! \authr Artem Lutov
